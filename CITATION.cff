@@ -12,6 +12,10 @@ preferred-citation:
   type: article
   title: "Lightweight Spatial-Spectral-Temporal Baseline-Residual Learning for mmWave Radar Heart-Rate Estimation"
   authors:
-    - family-names: "TODO before public upload"
-      given-names: "TODO"
+    - family-names: "Song"
+      given-names: "Yicheng"
+    - family-names: "Xue"
+      given-names: "Zijie"
+    - family-names: "Liu"
+      given-names: "Aifei"
   year: 2026
