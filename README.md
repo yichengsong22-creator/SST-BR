@@ -16,7 +16,6 @@ demonstration.
 The exact representation and baseline–residual core used to produce the paper
 results is temporarily withheld while the manuscript is under review.
 
-![SST-BR framework](assets/sstbr_framework.png)
 
 ## Overview
 
