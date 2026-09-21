@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this SST-BR release, please cite the manuscript below."
-title: "SST-BR pre-publication executable release"
+title: "SST-BR: Pre-Publication Executable Release"
 type: software
 version: 0.2.0
 date-released: 2026-09-18
 license: MIT
 authors:
-  - family-names: "TODO before public upload"
-    given-names: "TODO"
+  - family-names: "Song"
+    given-names: "Yicheng"
 preferred-citation:
   type: article
-  title: "TODO: Final SST-BR manuscript title"
+  title: "Lightweight Spatial-Spectral-Temporal Baseline-Residual Learning for mmWave Radar Heart-Rate Estimation"
   authors:
     - family-names: "TODO before public upload"
       given-names: "TODO"
