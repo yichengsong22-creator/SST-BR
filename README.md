@@ -2,7 +2,7 @@
 
 **Spatial–Spectral–Temporal Baseline–Residual Learning for mmWave Radar Heart-Rate Estimation**
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TODO-BEFORE-PUBLIC-UPLOAD/sstbr-prepublication/main?labpath=notebooks%2F00_quick_start.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yichengsong22-creator/SST-BR/v0.2.0-review?filepath=notebooks/00_quick_start.ipynb)
 
 ## Pre-Publication Executable Release
 
