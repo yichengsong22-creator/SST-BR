@@ -4,13 +4,13 @@
 
 ## Overview
 
-This repository contains the complete implementation used to reproduce the
+This pipeline contains the complete implementation used to run the
 SST-BR experiment on the RHB dataset. It includes raw radar and PPG loading,
 PPG reference generation, spatial–spectral feature extraction, long-time
 temporal fusion, baseline–residual regression, four-fold subject-disjoint
 evaluation, and pooled 10-s heart-rate estimation.
 
-The full reproduction entry point is:
+The full pipeline entry point is:
 
 ```bash
 python scripts/run_full_pipeline.py --config configs/rhb_full.yaml
@@ -52,14 +52,12 @@ python scripts/verify_installation.py
 ```
 
 The verification script checks the installed package, full-pipeline imports,
-the ordered 331-D feature contract, and the four public fold definitions. It
-does not require the RHB dataset.
+the ordered 331-D feature contract, and the four public fold definitions.
 
 ## RHB Dataset
 
 The experiments use the RHB dataset introduced and released with
-[Radar-APLANC](https://github.com/RadarHRSensing/Radar-APLANC). The dataset was
-not collected by the SST-BR authors and is not stored in this Git repository.
+[Radar-APLANC](https://github.com/RadarHRSensing/Radar-APLANC).
 
 **Download the RHB dataset used by this release:**  
 [Download from OneDrive](https://1drv.ms/f/c/2d8763f435503032/IgDXzzxzqgXwTKhdc-vmg2UCAcWmzb5pxau_6KJKtIFPxTc?e=EukkVo)
@@ -189,9 +187,7 @@ The manuscript reports the following pooled 10-s result:
 |---:|---:|---:|---:|
 | 720 | 8.2711 | 6.3645 | 0.7628 |
 
-These values are manuscript reference results only. The code reports the
-metrics obtained from the current dataset, environment, and configuration and
-does not enforce equality with stored reference values.
+
 
 ## Paper-to-Code Mapping
 
@@ -250,4 +246,4 @@ should also cite the original Radar-APLANC work.
 
 ## License
 
-This repository is released under the MIT License. See `LICENSE` for details.
+This pipeline is released under the MIT License. See `LICENSE` for details.
