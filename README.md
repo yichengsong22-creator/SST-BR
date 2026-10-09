@@ -1,7 +1,5 @@
 # SST-BR
 
-**Spatial–Spectral–Temporal Baseline–Residual Learning for mmWave Radar Heart-Rate Estimation**
-
 ## Overview
 
 This pipeline contains the complete implementation used to run the
